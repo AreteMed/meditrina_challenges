@@ -78,8 +78,10 @@ Every business may change the numbers in their settings. For instance they may h
 - Unit test cases
 - Validity checking on parameters and data fields
 
-### Estimates
+### INFO
 
 Estimated code time: < 1 hour
 
 Bounty: $50
+
+Start Date: 2016-08-04
